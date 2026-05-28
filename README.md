@@ -8,7 +8,7 @@
 ### 第一卷：茹芳菲尽
 - [第一章：初见惊魂](chapters/vol1/ch01.md)
 - [第二章：一发入魂](chapters/vol1/ch02.md)
-- [第三章：六桥烟云](chapters/vol1/ch03.md)
+- [第三章：六桥烟雨](chapters/vol1/ch03.md)
 
 ## 更新
 每周五更新
