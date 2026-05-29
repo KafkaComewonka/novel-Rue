@@ -1,0 +1,22 @@
+{
+  "title": "茹芳菲尽",
+  "description": "都市艳情长篇连载",
+  "author": "原创作者",
+  "language": "zh-hans",
+  "plugins": [
+    "donate",
+    "-lunr",
+    "-search",
+    "search-pro"
+  ],
+  "pluginsConfig": {
+    "donate": {
+      "wechat": "https://applink.feishu.cn/client/message/link/open?token=AmQasPbfwAACahkh3CiAS9k%3D",
+      "alipay": "https://applink.feishu.cn/client/message/link/open?token=AmQasPbfwAACahkiW53Ai7s%3D",
+      "title": "喜欢本书？请作者喝杯奶茶💖",
+      "button": "打赏",
+      "wechatText": "微信扫码",
+      "alipayText": "支付宝扫码"
+    }
+  }
+}
